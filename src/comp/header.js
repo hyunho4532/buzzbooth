@@ -1,4 +1,3 @@
-import "./App.css";
 import user from "../image/user.png";
 import basket from "../image/basket.png";
 import search from "../image/search.png";
